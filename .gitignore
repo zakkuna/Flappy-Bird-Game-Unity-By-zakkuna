@@ -1,0 +1,27 @@
+# Compiled source #
+###################
+*.log
+*.meta
+
+# Builds #
+##########
+Builds/
+WebGLTemplates/
+Library/
+ProjectSettings/
+obj/
+Temp/
+.vscode/
+*.sln
+*.suo
+*.userprefs
+.DS_Store
+*.zip
+*.tar.gz
+
+# Unity generated #
+###################
+Library/
+Temp/
+Obj/
+UnityGenerated/
